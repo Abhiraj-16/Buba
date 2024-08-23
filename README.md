@@ -1,2 +1,5 @@
 # Buba
-This is Fullstack project of NJS, CSS, DB. 
+
+This is Fullstack project of NJS, CSS, DB.
+
+# Vr CHECK
