@@ -36,6 +36,7 @@ if(email ===""){
 if(password===""){
     isValid="false";
     error +="Password should not empty";
+
 }else if(password.length< 6){
     isValid = false;
     errorMessage += "Password must be at least 6 characters long\n";   
@@ -45,6 +46,7 @@ if(!isValid){
     alert(error)
     return false;
 }
+console.log("successful")
 
 
 
